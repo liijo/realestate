@@ -26,8 +26,8 @@ A modern, responsive real estate listing application built with React, Vite, Typ
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/real-estate-platform.git
-    cd real-estate-platform
+    git clone https://github.com/liijo/realestate.git
+    cd realestate
     ```
 
 2.  **Install dependencies**
